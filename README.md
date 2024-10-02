@@ -26,7 +26,7 @@ sudo apt update
 
 sudo apt install python3 python3-pip -y
 
-git clonehttps://github.com/donald-f-ferguson/W4153-Hello-World-FastAPI.git
+git clone https://github.com/donald-f-ferguson/W4153-Hello-World-FastAPI.git
 
 sudo apt install python3.12-venv
 
